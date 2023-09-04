@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PigGameMenu_Scene.unity
+    guid: accae75b0099ab646a6ad8544a0f20eb
+  - enabled: 1
+    path: Assets/Scenes/IfElse_HellScene.unity
+    guid: fb9e7e4eb4b0f48d5894d93b45b12c3f
+  - enabled: 1
+    path: Assets/Scenes/P2P_HP_PigGameScene.unity
+    guid: ac296761862907e44bbfd7dea46f3447
+  - enabled: 1
+    path: Assets/Scenes/Group_HP_Pigame.unity
+    guid: f15bed46d2854914284aeccefc29ae04
+  m_configObjects: {}
